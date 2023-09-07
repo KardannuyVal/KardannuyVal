@@ -109,10 +109,7 @@ namespace Задание1
         int number_2=kardan.Next();
         int number_3=kardan.Next();
         int number_4=kardan.Next();
-        Console.WriteLine(number_1);
-        Console.WriteLine(number_2);
-        Console.WriteLine(number_3);
-        Console.WriteLine(number_4);
+        Console.WriteLine($" {number_1}\n {number_2}\n {number_3}\n {number_4}\n");
         //восьмое задание
         Console.WriteLine("Задание 8:");
         Console.WriteLine("Введите трехзначное число:");
