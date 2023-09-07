@@ -10,9 +10,7 @@ namespace Задание1
         Console.Write("Задание 1:");
         Console.ReadLine();
         Console.WriteLine("МирТрудМай");
-        Console.WriteLine("Мир");
-        Console.WriteLine("   Труд");
-        Console.WriteLine("      Май");
+        Console.WriteLine("Мир\n\tТруд\n\t\tМай\n");
         //второе задание
         Console.Write("Задание 2:");
         Console.ReadLine();
